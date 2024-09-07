@@ -91,12 +91,6 @@ During the BETA phase, the exam costs $75, which is already a 33% discount. If y
 ### 4. **How does the AIF exam differ from the AWS Cloud Practitioner exam?**
 The AIF exam focuses on AWS’s AI and ML services and includes new types of questions that you won’t find on the Cloud Practitioner exam. For more details, check this [Reddit post on new question types](https://www.reddit.com/r/AWSCertifications/comments/1ea16sa/new_question_types_for_new_exams).
 
-### 5. **Where can I find others who have passed this exam?**
-Check out some real-life experiences from those who have recently passed the AIF exam on Reddit:  
-- [I Passed AIF-C01](#)  
-- [Just Passed the New AIF-C01 Exam](#)  
-- [My Experience Passing AWS AI Practitioner](#)
 
----
 
 By following the above resources and path, you will be well-prepared to tackle the AWS Certified AI Practitioner exam and start your journey into the world of AI and ML with AWS. Good luck!
